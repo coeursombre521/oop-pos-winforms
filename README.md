@@ -1,2 +1,2 @@
 # oop_pos_winforms
-Implementation for OOP classes, with WinForms
+Implementation for OOP courses, with WinForms
